@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 // required using statements to access EF DB 
 using COMP2007_Lesson4B.Models;
-using System.Web.ModelBinding;
+using System.Web.ModelBinding; 
 
 namespace COMP2007_Lesson4B
 {

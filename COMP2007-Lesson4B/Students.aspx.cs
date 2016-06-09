@@ -27,7 +27,7 @@ namespace COMP2007_Lesson4B
             }
         }
 
-        protected void GetStudents()
+        protected void GetStudents() 
         {
             // connect to EF
             using (DefaultConnection db = new DefaultConnection())

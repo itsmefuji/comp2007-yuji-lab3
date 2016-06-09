@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-offset-3 col-md-6">
                 <h1>Student Details</h1>
-                <h5>All Fields are Required</h5>
+                <h5>All Fields are Required</h5> 
                 <br />
                 <div class="form-group">
                     <label class="control-label" for="LastNameTextBox">Last Name</label>
